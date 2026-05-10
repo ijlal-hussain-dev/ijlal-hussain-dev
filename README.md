@@ -114,22 +114,6 @@ The decisions that matter most are usually made early, around boundaries, data o
 
 I have worked across fintech, real estate, e-commerce, manufacturing, and education. The domains are different but the problems tend to repeat.
 
----
-
-## Pinned repositories
-
-| Repo | Stack | What it shows |
-|------|-------|---------------|
-| [event-driven-order-system](#) | .NET · RabbitMQ · DDD | High-volume event-driven platform pattern |
-| [rag-ai-agent-dotnet](#) | Semantic Kernel · Azure AI Search · ADF | RAG pipeline with indexer and LLM layer |
-| [monolith-to-microservices-playbook](#) | .NET · DDD · Docker | Decomposition approach with worked example |
-| [k8s-observability-stack](#) | Terraform · K8s · New Relic | Alerting, tracing, and incident automation |
-| [angular-blazor-spa-comparison](#) | Angular · Blazor · TypeScript | Frontend architecture comparison |
-| [nestjs-api-boilerplate](#) | NestJS · PostgreSQL · CI/CD | Production-ready API starting point |
-
----
-
-
 ## Education
 
 **MSc Engineering**  University of Tartu
