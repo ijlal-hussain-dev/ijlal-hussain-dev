@@ -1,7 +1,10 @@
+> [!TIP]
+> ### 💡 Profile Reviewers
+> Please treat the repositories on this profile as a **technical laboratory and engineering journal** used primarily for architectural experiments, research, and technical proofs of concept. They document continuous learning and do not reflect my enterprise production standards around security, testing, or operational readiness.
+
 # Hi, I'm Ijlal Hussain 👋
 ### Senior Fullstack Software Engineer
 **Distributed Systems · Enterprise Architecture · Platform Engineering · AI Enabled Platforms**
-
 ---
 
 ### About Me
